@@ -26,6 +26,7 @@ Navigate to the directory containing the executable.
 
 Run the binary via terminal/command prompt:
 ./pbr_nuker.exe
+
 ⌨️ Usage Instructions
 
 Configuration: Follow the terminal prompts to enter:
