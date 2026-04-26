@@ -1,7 +1,7 @@
 # █ PBR NUKER █
 
 A high-intensity Discord server nuker you will love it
-
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 ## 🚀 Features
