@@ -2,7 +2,7 @@
 
 A high-intensity Discord server nuker you will love it
 
-![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=python&logoColor=white) ![Built with Love](https://img.shields.io/badge/Built%20with-Love-eb48b2?style=for-the-badge&logo=github-sponsors&logoColor=white)
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=python&logoColor=white) ![Built with Love](https://img.shields.io/badge/Built%20with-Love-eb48b2?style=for-the-badge&logo=github-sponsors&logoColor=white) ![Powered by discord.py](https://img.shields.io/badge/Powered%20by-discord.py-00b0f4?style=for-the-badge&logo=discord&logoColor=white)
 ---
 
 ## 🚀 Features
