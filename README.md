@@ -1,6 +1,6 @@
 # █ PBR NUKER █
 
-A high-intensity Discord server management and restructuring tool designed for stress-testing private virtual machines and dedicated development servers.
+A high-intensity Discord server nuker you will love it
 
 ---
 
